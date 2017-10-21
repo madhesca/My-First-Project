@@ -6,8 +6,14 @@
 	margin-right: auto;
 	margin-left: auto;
 
+	&--narrow {
+		max-width: 470px;
+	}
+
 	&--medium {
 		max-width: 700px;
+
+
 		
 		@mixin atLarge {
 			width: 600px;
