@@ -1469,8 +1469,9 @@ a {
 		background-color: #0d442e;
 		display: inline-block;
 		margin: 0 5px;
-		width: 65px;
-		height: 65px;
+		width: 68px;
+		height: 68px;
+		border-radius: 36px;
 		position: relative;
 	}
 
@@ -1488,7 +1489,7 @@ a {
 			left: 50%;
 			-webkit-transform: translate(-50%, -50%);
 			        transform: translate(-50%, -50%);
-		
+
 		}
 
 
